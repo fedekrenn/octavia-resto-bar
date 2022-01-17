@@ -48,3 +48,11 @@ img{
 .contenedorTarjetas{
     height: 15vh;
 }
+
+h1{
+    margin: 50px;
+}
+
+footer{
+    font-weight: bold;
+}
