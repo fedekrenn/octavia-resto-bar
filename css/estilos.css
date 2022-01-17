@@ -56,3 +56,11 @@ h1{
 footer{
     font-weight: bold;
 }
+
+.imagenInicio{
+    width: 40%;
+}
+
+.tarjetaInicio{
+    margin: 100px 0px 100px 0px;
+}
