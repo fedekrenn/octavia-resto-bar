@@ -29,6 +29,7 @@ ul li{
 
 .container-fluid{
     padding: 0px;
+    margin: 0px;
 }
 
 a{
@@ -63,4 +64,27 @@ footer{
 
 .tarjetaInicio{
     margin: 100px 0px 100px 0px;
+}
+
+.cardContenedor{
+    width: 80%;
+}
+
+.noPadding{
+    padding: 0px;
+    margin: 0px;
+}
+
+.cardProduct{
+    margin: 20px 0px 20px 0px;
+}
+
+.card:hover{
+    transform: scale(110%);
+    transition: .4s;
+}
+
+#carouselExampleIndicators{
+    width: 80%;
+    margin: 50px 0px 50px 0px;
 }
