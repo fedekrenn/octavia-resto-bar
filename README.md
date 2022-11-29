@@ -1,3 +1,15 @@
-# octaviaRestoBar
-<h1> Prototipo de web maquetada entreramente con Bootstrap</h1>
-<p> Hola! Este repositorio es de una web ficticia para un bar, la misma forma parte de un trabajo práctico para mi cursada en Coderhouse </p>
+# Octavia Restobar
+Maquetado web estático con la temática de un bar, se trajaba con bootstrap tanto en componentes como en el maquetado
+
+<br>
+<br>
+<br>
+
+
+<h2> 🙋‍♂️ Hola, Soy Federico Krenn</h2>
+:nerd_face: Me encuentro cursando la carrera de fullstack developer en Coderhouse 
+<br>
+🌱 Actualmente estoy cursando React
+<br></br>
+📫 Conectemos en Linkedin: https://www.linkedin.com/in/fkrenn/
+
